@@ -1,0 +1,5 @@
+[
+    {"supplier_id": 1, "name": "ABC Supplies", "location": "KAPSABET"},
+    {"supplier_id": 2, "name": "XYZ Wholesalers", "location": "MIGORI"},
+    {"supplier_id": 3, "name": "Global Traders", "location": "BONDO"}
+]
